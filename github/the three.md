@@ -11,3 +11,7 @@
 	-git check-ignore -v file name查看忽略状态
 	-git log --pretty=format:'%h %s%d [%an]' --graph --date=short 显示历史
     -git config --global alias.ci commit  更改别名
+    -vim .gitconfig 查看别名
+    -clean - n 查看消除文件
+    -       -f 消除
+    
